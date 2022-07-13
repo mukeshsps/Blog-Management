@@ -1,2 +1,1 @@
-# Blog-Management
-python version 3.8
+# Blog_management_site_New
